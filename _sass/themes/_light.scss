@@ -1,29 +1,29 @@
 @mixin styles {
   /* Framework color */
-  --main-bg: white;
+  --main-bg: #f4ecd8;
   --mask-bg: #c1c3c5;
-  --main-border-color: #f3f3f3;
+  --main-border-color: #e6dcc4;
 
   /* Common color */
-  --text-color: #34343c;
-  --text-muted-color: #757575;
+  --text-color: #4a4a42;
+  --text-muted-color: #776f5f;
   --text-muted-highlight-color: inherit;
-  --heading-color: #2a2a2a;
-  --label-color: #585858;
-  --blockquote-border-color: #eeeeee;
-  --blockquote-text-color: #757575;
-  --link-color: #0056b2;
-  --link-underline-color: #dee2e6;
-  --button-bg: #ffffff;
-  --btn-border-color: #e9ecef;
-  --btn-backtotop-color: #686868;
-  --btn-backtotop-border-color: #f1f1f1;
-  --checkbox-color: #c5c5c5;
-  --checkbox-checked-color: #07a8f7;
+  --heading-color: #3a3a32;
+  --label-color: #585850;
+  --blockquote-border-color: #e6dcc4;
+  --blockquote-text-color: #776f5f;
+  --link-color: #695f42;
+  --link-underline-color: #d5cbb7;
+  --button-bg: #f9f5e9;
+  --btn-border-color: #e6dcc4;
+  --btn-backtotop-color: #776f5f;
+  --btn-backtotop-border-color: #e6dcc4;
+  --checkbox-color: #c5c5b5;
+  --checkbox-checked-color: #8b7355;
   --img-bg: radial-gradient(
     circle,
-    rgb(255, 255, 255) 0%,
-    rgb(239, 239, 239) 100%
+    rgb(249, 245, 233) 0%,
+    rgb(244, 236, 216) 100%
   );
   --shimmer-bg: linear-gradient(
     90deg,
@@ -33,21 +33,21 @@
   );
 
   /* Sidebar */
-  --site-title-color: rgb(113, 113, 113);
-  --site-subtitle-color: #717171;
-  --sidebar-bg: #f6f8fa;
-  --sidebar-border-color: #efefef;
-  --sidebar-muted-color: #545454;
-  --sidebar-active-color: #1d1d1d;
-  --sidebar-hover-bg: rgb(223, 233, 241, 0.64);
-  --sidebar-btn-bg: white;
-  --sidebar-btn-color: #8e8e8e;
-  --avatar-border-color: white;
+  --site-title-color: #695f42;
+  --site-subtitle-color: #776f5f;
+  --sidebar-bg: #f9f5e9;
+  --sidebar-border-color: #e6dcc4;
+  --sidebar-muted-color: #776f5f;
+  --sidebar-active-color: #4a4a42;
+  --sidebar-hover-bg: rgba(211, 198, 170, 0.3);
+  --sidebar-btn-bg: #f4ecd8;
+  --sidebar-btn-color: #776f5f;
+  --avatar-border-color: #f4ecd8;
 
   /* Topbar */
-  --topbar-bg: rgb(255, 255, 255, 0.7);
-  --topbar-text-color: rgb(78, 78, 78);
-  --search-border-color: rgb(240, 240, 240);
+  --topbar-bg: rgba(244, 236, 216, 0.9);
+  --topbar-text-color: #4a4a42;
+  --search-border-color: #e6dcc4;
   --search-icon-color: #c2c6cc;
   --input-focus-border-color: #b8b8b8;
 
