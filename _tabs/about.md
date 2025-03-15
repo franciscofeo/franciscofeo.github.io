@@ -4,16 +4,52 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<img src="https://otzslayer.github.io/assets/psyduck.png" style="width: 240px;">
+<img src="../assets/images/me.jpg" style="width: 380px;">
 
----
 
--   한재윤 (Jay Han)
--   ML Engineer @ LG CNS
--   otzslayer@gmail.com
+Sou Desenvolvedor Backend e estudante de Física. Minha jornada é uma interessante intersecção entre o mundo da programação e das ciências naturais, onde busco aplicar o pensamento analítico e a resolução de problemas em ambas as áreas. Criei esse blog com o intuito de guardar em algum lugar minhas reflexões e estudos de forma bem informal, sem tanta formalidade igual se vê em livros.
 
-6년 차 **ML Engineer**로 HR, B2C 등 여러 도메인의 **데이터를 분석/모델링**하는 업무를 수행했습니다.
-**추천 시스템, 이상 감지, 예측 모델링** 등 다양한 프로젝트를 수행하며 분석 과제를 리딩하였으며, 조직 내 역량 강화를 위한 다양한 Task를 진행했습니다.
+## 💻 Desenvolvimento de Software
 
-최근에는 분석/모델링보다 **MLOps에 관심**을 갖고 수행 중인 프로젝트에 적용하고 있습니다. 
-**ML을 적용하여 서비스를 만들고, 그 서비스를 배포하는 일련의 파이프라인을 개발/관리**하는 데에 큰 관심이 있습니다.
+Atualmente trabalho como Desenvolvedor Backend na BEES Brasil, parte da AB-InBev. Minhas principais tecnologias (não somente as que uso no trabalho) incluem:
+
+- **Linguagens**: Java, Kotlin, Go, Python
+- **Frameworks**: Spring Framework
+- **Bancos de Dados**: 
+  - SQL: PostgreSQL, MySQL
+  - NoSQL: MongoDB, DynamoDB
+
+## 🔬 Física
+
+Como estudante de Física, tenho especial interesse em:
+- Física Computacional aplicada em Fenomenologia de Partículas (simulações Monte Carlo, por exemplo)
+- Física Teórica
+    - Física do Modelo Padrão e Partículas Elementares
+    - Teoria de Grupos
+
+## 🛠️ Projetos Interessantes
+
+Alguns dos meus projetos que eu tenho bastante carinho e não estão diretamente ligados ao que faço no trabalho:
+
+1. **[Game of Life](https://github.com/franciscofeo/GameOfLife)** (Python)
+   - Implementação do famoso autômato celular de John Conway
+   - Demonstração prática de sistemas complexos e emergência
+
+2. **[Gryphon CLI](https://github.com/franciscofeo/gryphon-cli)** (Go)
+   - Ferramenta CLI para automação de tarefas em desenvolvimento web
+   - Foco em produtividade e eficiência
+
+## 📚 Interesses e Hobbies
+
+Como hobby, gosto de aprender/explorar:
+- Infraestrutura e aprender sobre a cultura DevOps
+- Física Atmosférica
+- Estudar música, principalmente análises de harmonia
+
+Acredito que a combinação de ciência e tecnologia pode nos levar a soluções mais elegantes e eficientes. Meu objetivo é continuar explorando essa intersecção, contribuindo tanto para o mundo do desenvolvimento de software quanto para a compreensão de fenômenos físicos através da computação.
+
+## 📫 Contato
+
+Você pode me encontrar em:
+- [GitHub](https://github.com/franciscofeo)
+- [LinkedIn](https://www.linkedin.com/in/francisco-angelo/)
