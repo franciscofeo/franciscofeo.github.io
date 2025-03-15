@@ -7,7 +7,7 @@ order: 4
 <img src="../assets/images/me.jpg" style="width: 380px;">
 
 
-Sou Desenvolvedor Backend e estudante de Física. Minha jornada é uma interessante intersecção entre o mundo da programação e das ciências naturais, onde busco aplicar o pensamento analítico e a resolução de problemas em ambas as áreas. Criei esse blog com o intuito de guardar em algum lugar minhas reflexões e estudos de forma bem informal, sem tanta formalidade igual se vê em livros.
+Desenvolvedor Backend e estudante de Física. Criei esse blog com o intuito de guardar em algum lugar minhas reflexões e estudos de forma bem informal, sem tanta formalidade igual se vê em livros ou em aulas.
 
 ## 💻 Desenvolvimento de Software
 
