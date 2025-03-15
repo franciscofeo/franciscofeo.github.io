@@ -86,28 +86,9 @@ script_includes:
             {% endif %}
           </em>
         </span>
-
-        <div>
-          <!-- pageviews -->
-          {% if site.pageviews.provider and site.analytics[site.pageviews.provider].id %}
-            <span>
-              <em id="pageviews">
-                <i class="fas fa-spinner fa-spin small"></i>
-              </em>
-              {{ site.data.locales[lang].post.pageview_measure }}
-            </span>
-          {% endif %}
-
-          <!-- read time -->
-          {% include read-time.html content=content prompt=true lang=lang %}
-        </div>
       </div>
     </div>
   </header>
-
-  <br><br>
-  {% include inarticle_ads.html %}
-  
   
   {% if enable_toc %}
     <div id="toc-bar" class="d-flex align-items-center justify-content-between invisible">
@@ -170,9 +151,6 @@ script_includes:
     {% endfor %}
   </div>
   {% endif %}
-
-  <br><br>
-  {% include inarticle_ads.html %}
 
   <div class="post-tail-bottom
     d-flex justify-content-between align-items-center mt-5 pb-2">
