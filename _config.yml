@@ -19,10 +19,10 @@ timezone: America/Sao_Paulo
 
 title: Francisco Féo # the main title
 
-tagline: Pensamentos e aprendizados sobre Programação, Física e Matemática  # it will display as the sub-title
+tagline: Reflexões e aprendizados sobre Programação, Física e Matemática  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  "Pensamentos e aprendizados sobre Programação, Física e Matemática"
+  "Reflexões e aprendizados sobre Programação, Física e Matemática"
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://franciscofeo.github.io"
