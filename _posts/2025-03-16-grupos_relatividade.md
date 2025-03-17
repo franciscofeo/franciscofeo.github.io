@@ -100,7 +100,7 @@ $$
 \det(M^{-1}) = \det(\eta)^2\det(M^T)
 $$
 
-Lembrando das aulas de Álgebra Linear, sabemos que: caso a matriz $M$ admita uma inversa, então o determinante de $M^{-1}$ é igual ao inverso do determinante de $M$ e que $\det M = \det M^{-1}$.  e que $\det(\eta) = 1$. Continuando:
+Lembrando das aulas de Álgebra Linear, sabemos que: caso a matriz $M$ admita uma inversa, então o determinante de $M^{-1}$ é igual ao inverso do determinante de $M$ e que $\det M = \det M^T$.  e que $\det(\eta) = 1$. Continuando:
 
 $$
 \frac{1}{\det M} = \det M 
