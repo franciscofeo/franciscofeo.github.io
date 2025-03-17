@@ -45,7 +45,7 @@ Existe também uma outra propriedade chamada de comutatividade que não foi colo
 
 O grupo $O(1, 1)$ é um tipo do grupo chamado "Grupo Ortogonal Indefinido" $O(p, q)$ que é dado por:
 
-Seja $V= \mathbb{R}^{p+q}$ com $p,q \in \mathbb{N}_{0}$ e $\omega$ uma forma bilinear 
+Seja um espaço vetorial $V= \mathbb{R}^{p+q}$ com $p,q \in \mathbb{N}_{0}$ e $\omega$ uma forma bilinear 
 (por agora apenas aceite isso, no futuro posso explicar com mais detalhes o que são formas bilineares e sesquilineares) do tipo 
 $\omega(x, y) = <x, \eta (p,q)y>_R$  onde $\eta$ é uma matriz diagonal com $p$ elementos $+1$ e $q$ elementos -1. 
 Com isso, temos a definição geral do grupo $O(p, q)$:
