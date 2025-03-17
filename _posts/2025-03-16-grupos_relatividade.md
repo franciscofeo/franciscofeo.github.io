@@ -45,7 +45,7 @@ Existe também uma outra propriedade chamada de comutatividade que não foi colo
 
 O grupo $O(1, 1)$ é um tipo do grupo chamado "Grupo Ortogonal Indefinido" $O(p, q)$ que é dado por:
 
-Seja $V= \mathbb{R}^{p+n}$ com $p,q \in \mathbb{N}_{0}$ e $\omega$ uma forma bilinear 
+Seja $V= \mathbb{R}^{p+q}$ com $p,q \in \mathbb{N}_{0}$ e $\omega$ uma forma bilinear 
 (por agora apenas aceite isso, no futuro posso explicar com mais detalhes o que são formas bilineares e sesquilineares) do tipo 
 $\omega(x, y) = <x, \eta (p,q)y>_R$  onde $\eta$ é uma matriz diagonal com $p$ elementos $+1$ e $q$ elementos -1. 
 Com isso, temos a definição geral do grupo $O(p, q)$:
@@ -70,13 +70,13 @@ $$
 A métrica para o espaço-tempo de Minkowski no caso bidimensional é:
 
 $$
-\begin{pmatrix}
+g_{\mu\nu} =\begin{pmatrix}
 1 & 0 \\
 0 & -1
 \end{pmatrix}
 $$
 
-Essas matrizes vão aparecer vão aparecer na próxima seção, mas para esse caso, fazendo um boost as novas variáveis são transformadas da seguinte forma:
+Essas matrizes aparecerão na próxima seção. Mas para esse caso, realizando um boost nós vemos que as novas variáveis são transformadas da seguinte forma:
 
 $$
 t' = \gamma\left( t - \frac{v}{c^2}x \right)
