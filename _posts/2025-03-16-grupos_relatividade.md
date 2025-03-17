@@ -62,7 +62,7 @@ As **transformações de Lorentz** são mudanças de coordenadas que preservam a
 
 $$
 \vec{x} = \begin{pmatrix}
-t \\
+ct \\
 x
 \end{pmatrix}
 $$
@@ -79,7 +79,7 @@ $$
 Essas matrizes aparecerão na próxima seção. Mas para esse caso, realizando um boost nós vemos que as novas variáveis são transformadas da seguinte forma:
 
 $$
-t' = \gamma\left( t - \frac{v}{c^2}x \right)
+ct' = \gamma\left( t - \frac{v}{c^2}x \right)
 $$
 
 $$
