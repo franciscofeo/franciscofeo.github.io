@@ -79,7 +79,7 @@ $$
 Essas matrizes aparecerão na próxima seção. Mas para esse caso, realizando um boost nós vemos que as novas variáveis são transformadas da seguinte forma:
 
 $$
-ct' = \gamma\left( t - \frac{v}{c^2}x \right)
+t' = \gamma\left( t - \frac{v}{c^2}x \right)
 $$
 
 $$
