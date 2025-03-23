@@ -43,19 +43,23 @@ $$
 onde: $m_i$ é a massa de cada partícula do corpo e $r_{i}$ é a distância da partícula com relação ao eixo de rotação
 
 Para um corpo contínuo, essa soma se transforma em uma integral:
+
 $$
-I = \int_{C} r^2 dm
-$$A unidade do momento de inércia no Sistema Internacional (SI) é o $\text{kg} \cdot \text{m}^2$.
+I = \int_C r^2 dm
+$$
+
+A unidade do momento de inércia no Sistema Internacional (SI) é o $\text{kg} \cdot \text{m}^2$.
 
 O momento de inércia depende da distribuição de massa em relação ao eixo de rotação: quanto mais distante a massa está do eixo, maior o momento de inércia e maior será a dificuldade para alterar sua rotação.
 
 ### Matriz do Momento de Inércia
 
-Quando um corpo rígido tem uma forma irregular, o Momento de Inércia depende da direção do eixo de rotação. Nesse caso, usamos a **Matriz do Momento de Inércia**, que relaciona o [[Momento Angular]] com a velocidade angular:
+Quando um corpo rígido tem uma forma irregular, o Momento de Inércia depende da direção do eixo de rotação. Nesse caso, usamos a **Matriz do Momento de Inércia**, que relaciona o momento angular com a velocidade angular:
 
 $$
 \mathbf{L} = \mathbf{I} \boldsymbol{\omega}
 $$
+
 Em coordenadas, essa matriz é expressa como:
 
 $$
@@ -128,7 +132,7 @@ $$
 \dot{\vec{L}} = I_{i}(\dot{\omega}_{i}\hat{e}_{i} + \omega_{i}\omega_{j}\epsilon_{jik}\hat{e}_{k}) = \vec{0}
 $$
 
-Chegamos finalmente à forma geral do momento angular desse sistema. Como sabemos que $i, \: j, \:k$ são números que vão de 1 a 3, vamos obter as expressões para cada valor de $i$:
+Chegamos finalmente à forma geral do momento angular desse sistema. Como sabemos que $i, j, k$ são números que vão de 1 a 3, vamos obter as expressões para cada valor de $i$:
 
 $$
 I_{1}(\dot{\omega}_{1}\hat{e}_{1} - \omega_{1}\omega_{2}\hat{e}_{3} + \omega_{1}\omega_{3}\hat{e}_{2}) = 0
