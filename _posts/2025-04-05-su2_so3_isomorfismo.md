@@ -16,7 +16,7 @@ Antes de partirmos para a verificação de fato do isomorfismo entre $\mathfrak{
 
 Em um post anterior eu expliquei um pouco sobre o que é essa estrutura abstrata chamada de Grupo, agora vamos nos aprofundar um pouco mais em um tópico específico.
 
-No contexto da Teoria de Grupos, os **Grupos de Lie** surgem como uma ponte fascinante entre a álgebra e a geometria, desempenhando um papel essencial na física teórica, especialmente na formulação das simetrias contínuas que regem as leis da natureza. Para compreendê-los de forma intuitiva, podemos pensar neles como objetos matemáticos que combinam a estrutura de grupos com a fluidez das variedades diferenciávei*.
+No contexto da Teoria de Grupos, os **Grupos de Lie** surgem como uma ponte fascinante entre a álgebra e a geometria, desempenhando um papel essencial na física teórica, especialmente na formulação das simetrias contínuas que regem as leis da natureza. Para compreendê-los de forma intuitiva, podemos pensar neles como objetos matemáticos que combinam a estrutura de grupos com a fluidez das variedades diferenciáveis.
 
 Isso significa que podemos aplicar ferramentas do cálculo diferencial para entender as transformações contínuas descritas por um grupo de Lie, o que é fundamental para estudar simetrias em sistemas físicos. Um exemplo clássico é o grupo das rotações no espaço tridimensional, $SO(3)$, que é um grupo de Lie — suas rotações formam um grupo, e esse grupo pode ser representado como uma variedade diferenciável tridimensional.
 
@@ -89,7 +89,7 @@ $$
 g(t) = 1 + At + \mathcal{O}(t^2)
 $$
 
-Pelas propriedades do grupo [[SU(2)]] temos que $U^{\dagger} = U ^{-1}$ e $\det U = 1$ para todo $U \in SU(2)$. Sendo assim, vamos usar a primeira propriedade:
+Pelas propriedades do grupo SU(2) temos que $U^{\dagger} = U ^{-1}$ e $\det U = 1$ para todo $U \in SU(2)$. Sendo assim, vamos usar a primeira propriedade:
 
 $$
 g(t)^{\dagger}g(t) = 1
@@ -106,6 +106,7 @@ $$
 $$
 (A + A^{\dagger})t = 0
 $$
+
 Isso tem que ser verdadeiro para qualquer valor de $t$, logo:
 
 $$
@@ -147,7 +148,7 @@ $$
 
 ## A álgebra $\mathfrak{so}(3)$
 
-Vamos encontrar a estrutura da álgebra de Lie $\mathfrak{so}(3)$. Pelas propriedades do grupo [[SO(3)]] temos que $O^TO = \mathbb{1}$ e $\det O = 1$ para todo $O \in SO(3)$.
+Vamos encontrar a estrutura da álgebra de Lie $\mathfrak{so}(3)$. Pelas propriedades do grupo SO(3) temos que $O^TO = \mathbb{1}$ e $\det O = 1$ para todo $O \in SO(3)$.
 De forma semelhante ao que fizemos na álgebra $\mathfrak{su}(2)$ temos que:
 
 $$
