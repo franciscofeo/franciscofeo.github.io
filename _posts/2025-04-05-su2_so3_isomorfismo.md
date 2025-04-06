@@ -139,7 +139,7 @@ $$
 \mathfrak{su}(2): \{U \in Mat(\mathbb{C}, 2) \: | \: Tr(U) = 0, \: \:U = -U^{\dagger} \}
 $$
 
-Veja que as matrizes que satisfazem essas condições são as 3 matrizes de Pauli $\sigma_i$.
+Veja que as matrizes que satisfazem essas condições são as 3 matrizes de Pauli $\sigma_i$, que também são os geradores do grupo $SU(2)$.
 Realizando o cálculo de $[\sigma_{i}, \sigma_{j}]$ temos que o colchete de Lie no $\mathfrak{su}(2)$ tem a estrutura abaixo:
 
 $$
