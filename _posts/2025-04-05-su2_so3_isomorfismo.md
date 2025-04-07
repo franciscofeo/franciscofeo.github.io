@@ -139,8 +139,10 @@ $$
 \mathfrak{su}(2): \{U \in Mat(\mathbb{C}, 2) \: | \: Tr(U) = 0, \: \:U = -U^{\dagger} \}
 $$
 
-Veja que as matrizes que satisfazem essas condições são as 3 matrizes de Pauli $\sigma_i$, que também são os geradores do grupo $SU(2)$.
-Realizando o cálculo de $[\sigma_{i}, \sigma_{j}]$ temos que o colchete de Lie no $\mathfrak{su}(2)$ tem a estrutura abaixo:
+Veja que as matrizes que satisfazem essas condições são as 3 matrizes de Pauli $\sigma_i$ com uma pequena mudança que mostrarei daqui a pouco.
+
+As matrizes de Pauli são as geradoras do grupo $SU(2)$. Realizando o cálculo de $[\sigma_{i}, \sigma_{j}]$ temos que o comutador
+(não é o colchete de Lie de $\mathfrak{su}(2)$ pois como falei antes elas não são as geradoras da álgebra) tem a estrutura abaixo:
 
 $$
 [\sigma_{i}, \sigma _{j}] = 2i \epsilon_{ijk} \sigma _{k}
@@ -211,8 +213,9 @@ i && 0
 \end{pmatrix}
 $$
 
-Veja que as matrizes acima, exceto a primeira que obviamente é $\mathbb{1}$, são as matrizes de Pauli! Fazendo mais algumas contas nós conseguimos verificar que os geradores de $SU(2)$ são definidos como  $J = i\sigma_k$.
-O colchete de Lie de $\mathfrak{su}(2)$ é $[\sigma_{i}, \sigma_{j}] = 2i\epsilon_{ijk}\sigma_{k}$.
+Veja que as matrizes acima, exceto a primeira que obviamente é $\mathbb{1}$, são as matrizes de Pauli! Fazendo mais algumas contas nós conseguimos
+verificar que os geradores de $SU(2)$ são definidos como  $S = i\sigma_k$.
+O comutador das matrizes de Pauli é $[\sigma_{i}, \sigma_{j}] = 2i\epsilon_{ijk}\sigma_{k}$.
 
 Já o grupo $SO(3)$ é chamado de grupo de rotação em $\mathbb{R}^3$ onde são matrizes $3 \times 3$ tal que seus geradores $R_i$ são da forma:
 
@@ -242,7 +245,7 @@ $$
 
 O colchete de Lie de $\mathfrak{so}(3)$ é $[R_{i}, R_{j}] = \epsilon_{ijk}R_{k}$
 
-Observe que o formato do colchete de Lie de $\mathfrak{su}(2)$ e $\mathfrak{so}(3)$ é muito parecido, isso indica que essas duas álgebras podem ser isomorfas.
+Observe que o formato do comutador das matrizes de $SU(2)$ e $\mathfrak{so}(3)$ é muito parecido, isso indica que essas duas álgebras podem ser isomorfas.
 
 Mas certo, o que é um isomorfismo?
 
@@ -251,13 +254,14 @@ A função $f$ é um isomorfismo caso ela seja um homomorfismo inversível, lemb
 1. É linear
 2. $f([a, b]) = [f(a), f(b)]$
 
-Porém, antes de prosseguirmos precisamos fazer uma transformação no colchete de Lie de $\mathfrak{su}(2)$. Veja que podemos reescrever a expressão do colchete da seguinte forma:
+Porém, antes de prosseguirmos precisamos fazer uma transformação no comutador de $SU(2)$ para assim encontrar o colchete de Lie de $\mathfrak{su}(2)$. 
+Veja que podemos reescrever a expressão do colchete da seguinte forma:
 
 $$
 [J_{i}, J_{j}] = \epsilon_{ijk}J_{k}
 $$
 
-onde $J_{a} = -\frac{i}{2}\sigma_{a}$.
+onde $J_{a} = -\frac{i}{2}\sigma_{a}$, que são as bases de $\mathfrak{su}(2)$.
 Sendo assim, veja que agora temos um mapeamento 1 para 1 desse colchete de Lie para o outro de $\mathfrak{so}(3)$. Então se fizermos a função linear mais simples possível:
 
 $$
