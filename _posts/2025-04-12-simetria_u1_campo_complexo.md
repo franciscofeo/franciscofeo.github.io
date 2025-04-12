@@ -192,7 +192,7 @@ Sabemos que as equações de Euler Lagrange vão para $0$ quando queremos que $\
 
 onde, $\Sigma^\mu = 0$ para simetrias internas e para simetrias de espaço-tempo teremos a presença do tensor energia-momento.
 
-Realizando o cálculo da Corrente de Noether com a ajuda das expressões 13 e 14, temos que:
+Realizando o cálculo da Corrente de Noether com a ajuda das expressões 12 e 13, temos que:
 
 \begin{equation}
     j^\mu = i(\phi^\dagger \partial^\mu\phi - \phi \partial_\mu \phi^\dagger)
