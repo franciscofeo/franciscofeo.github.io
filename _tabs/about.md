@@ -9,6 +9,15 @@ order: 4
 
 Desenvolvedor Backend e estudante de Física. Criei esse blog com o intuito de guardar em algum lugar minhas reflexões e estudos de forma bem informal, sem tanta formalidade igual se vê em livros ou em aulas.
 
+## 🔬 Física
+
+Como estudante de Física, tenho especial interesse em:
+- Física Teórica
+    - Física do Modelo Padrão e Partículas Elementares
+    - Teoria de Grupos
+    - Teoria de Campos
+- Física Atmosférica
+
 ## 💻 Desenvolvimento de Software
 
 Atualmente trabalho como Desenvolvedor Backend na BEES Brasil, parte da AB-InBev. Minhas principais tecnologias (não somente as que uso no trabalho) incluem:
@@ -19,13 +28,6 @@ Atualmente trabalho como Desenvolvedor Backend na BEES Brasil, parte da AB-InBev
   - SQL: PostgreSQL, MySQL
   - NoSQL: MongoDB, DynamoDB
 
-## 🔬 Física
-
-Como estudante de Física, tenho especial interesse em:
-- Física Computacional aplicada em Fenomenologia de Partículas (simulações Monte Carlo, por exemplo)
-- Física Teórica
-    - Física do Modelo Padrão e Partículas Elementares
-    - Teoria de Grupos
 
 ## 🛠️ Projetos Interessantes
 
@@ -43,8 +45,7 @@ Alguns dos meus projetos que eu tenho bastante carinho e não estão diretamente
 
 Como hobby, gosto de aprender/explorar:
 - Infraestrutura e aprender sobre a cultura DevOps
-- Física Atmosférica
-- Estudar música, principalmente análises de harmonia
+- Estudar música
 
 Acredito que a combinação de ciência e tecnologia pode nos levar a soluções mais elegantes e eficientes. Meu objetivo é continuar explorando essa intersecção, contribuindo tanto para o mundo do desenvolvimento de software quanto para a compreensão de fenômenos físicos através da computação.
 
