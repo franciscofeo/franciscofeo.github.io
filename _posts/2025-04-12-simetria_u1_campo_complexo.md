@@ -30,12 +30,12 @@ As simetrias internas afetam propriedades como carga ou isospin, enquanto as sim
 Teoria de grupos é um assunto bastante interessante e extenso. Sendo assim, vamos focar apenas em um grupo específico
 sem entrar em detalhes técnicos como grupos e álgebras de Lie, geradores, etc. 
 
-Grupos são estruturas abstratas que precisam respeitar certas propriedades: presença de associatividade, existência do elemento neutro e elemento inverso. A propriedade de comutatividade não é obrigatória, grupos que comutam são chamados de \textbf{Grupos Abelianos}.
+Grupos são estruturas abstratas que precisam respeitar certas propriedades: presença de associatividade, existência do elemento neutro e elemento inverso. A propriedade de comutatividade não é obrigatória, grupos que comutam são chamados de **Grupos Abelianos**.
 
 Na física, a maioria dos grupos estudados 
 são subgrupos de $GL(\mathbb{C}, n)$ (grupo linear complexo) e
 têm seus elementos representados por matrizes, o $U(1)$ não é exceção. 
-Esse grupo é chamado de \textbf{Grupo Unitário} que é definido como:
+Esse grupo é chamado de **Grupo Unitário** que é definido como:
 
 $$
   U(1) : \{ U \in GL(\mathbb{C}, n) \: | \: U^\dagger U = \mathbb{1}  \}
@@ -56,8 +56,8 @@ ou seja, ele ganha uma fase. Lembre-se que números complexos podem ser escritos
 
 Na Teoria Clássica de Campos, um campo escalar é uma entidade que associa um número a cada ponto do espaço-tempo, podendo ser real ou complexo. Um campo escalar real atribui um valor numérico real a cada ponto, como ocorre na descrição clássica de fenômenos como a temperatura em uma sala ou a densidade de massa em um fluido. Já um campo escalar complexo estende essa ideia ao permitir que esses valores sejam números complexos.
 
-Sabemos que quando estamos falando de teoria de campos, o termo \textit{densidade lagrangiana} é o correto já que estamos em um contexto
-contínuo, porém, nesse trabalho o termo \textit{lagrangiana} terá o mesmo significado e será usado mais vezes.
+Sabemos que quando estamos falando de teoria de campos, o termo *densidade lagrangiana* é o correto já que estamos em um contexto
+contínuo, porém, nesse trabalho o termo *lagrangiana* terá o mesmo significado e será usado mais vezes.
 
 A lagrangiana mais simples de um campo escalar (complexo) é da forma:
 
