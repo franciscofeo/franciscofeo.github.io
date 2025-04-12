@@ -73,7 +73,7 @@ Existe uma forma mais geral de escrever a lagrangiana acima:
     \mathcal{L} = \frac{1}{2}\partial_\mu \phi^\\dagger \partial^\mu \phi - V(\phi^\\dagger \phi)
 \end{equation}
 
-onde $V(\phi, \phi^\\dagger)$ é o termo de potencial e pode tomar muitas formas, tendo um papel muito interessante
+onde $V(\phi^\dagger \phi)$ é o termo de potencial e pode tomar muitas formas, tendo um papel muito interessante
 em simetrias sob o grupo $\mathbb{Z}_2$ e no processo de Quebra Espontânea de Simetria que não será abordado
 aqui.
 
