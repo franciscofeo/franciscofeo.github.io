@@ -38,7 +38,7 @@ têm seus elementos representados por matrizes, o $U(1)$ não é exceção.
 Esse grupo é chamado de **Grupo Unitário** que é definido como:
 
 $$
-  U(1) : \{ U \in GL(\mathbb{C}, n) \: | \: U^\dagger U = \mathbb{1}  \}
+  U(1) : \{ U \in GL(\mathbb{C}, 1) \: | \: U^\dagger U = \mathbb{1}  \}
 $$
 
 ou seja, são matrizes $1 \times 1$ onde a expressão acima é cumprida.
