@@ -204,7 +204,7 @@ Isso nos leva a ver que $j^\mu$ é uma grandeza conservada:
     \partial_\mu j^\mu = 0
 \end{equation}
 
-Uma corrente conservada, nos leva à existência de uma carga conservada e essa carga será o gerador dessa simetria. Nesse trabalho
+Uma corrente conservada nos leva à existência de uma carga conservada e essa carga será o gerador dessa simetria. Nesse trabalho
 não vamos entrar em detalhes disso mas no caso do campo escalar sob simetria $U(1)$ nós conseguimos chegar ao eletromagnetismo, o que deixa mais claro
 o que seria essa carga e corrente.
 
