@@ -176,7 +176,7 @@ Utilizando o Princípio Variacional, vamos analisar $\delta \mathcal{L}(\phi, \p
 \end{equation}
 
 Os termos que possuem $\partial_\mu(\delta \phi^\dagger)$ e $\partial^\mu(\delta \phi)$ serão integrados por partes utilizando a identidade mostrada no começo da seção. Lembre-se que $\delta \mathcal{L}$ está dentro da integral da ação, dada por $\delta S = \int \delta \mathcal{L} d^4x$.
-Com isso, na equação 16 vamos ter: $A^\mu = \frac{\mathcal{L}}{(\partial_\mu \phi^\dagger)}$ e $B = \delta \phi^\dagger$ e portanto, a variação da nossa lagrangiana se tornará:
+Com isso, na equação 17 vamos ter: $A^\mu = \frac{\mathcal{L}}{(\partial_\mu \phi^\dagger)}$ e $B = \delta \phi^\dagger$ e portanto, a variação da nossa lagrangiana se tornará:
 
 \begin{equation}
     \delta\mathcal{L} = \left[ E. L. \right]\delta \phi^\dagger + \left[ E. L. \right]\delta \phi + \partial_\mu \left( \frac{\partial\mathcal{L}}{\partial(\partial_\mu \phi^\dagger)} \delta\phi^\dagger \right) + \partial^\mu \left( \frac{\partial\mathcal{L}}{\partial(\partial^\mu \phi)} \delta\phi \right)
